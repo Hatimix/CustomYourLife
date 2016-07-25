@@ -3,9 +3,29 @@ nav.main{
     margin: 0;
     border-radius: 0;
 }
+nav.main .container ul li.active a{
+    text-transform: uppercase;
+    font-family: Impact,sans-serif;
+    letter-spacing: 0.3px;
+}
 /* END NAVBAR */
+
 /* START HEADER*/
 header.main #container img{
     height: auto;
+}
+div.jumbotron{
+    background: url("images/bg.png") no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+div.jumbotron h2{
+    color: white;
+    padding-bottom: 10px;
+}
+div.jumbotron p{
+    color: #f9f9f9;
+    font-size: 18px;
+    line-height: 1.1;
 }
 /* END HEADER*/

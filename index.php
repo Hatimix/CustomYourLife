@@ -65,11 +65,12 @@
 		<!-- START HEADER -->
 		<header class="main">
 			<div id="container">
-                <img src="images/bg.png" alt="" class="img-responsive" width="100%">
-                <div class="jumbotron">
+                <!--<img src="images/bg.png" alt="" class="img-responsive" width="100%">-->
+                <div class="jumbotron img-responsive">
                 	<div class="container">
-                		<h1>DES T-SHIRT A VOTRE STYLE ET A VOTRE MESURE ! </h1>
+                		<h2>DES T-SHIRT A VOTRE STYLE ET A VOTRE MESURE ! </h2>
                 		<p>Marre d'acheter des vêtements qui ne vous conviennent pas. des couleurs qui ne vous plaisent pas, des vêtements qui ne sont pas résistants? </p>
+                        <p>Alors vous êtes au bon endroit, vous pouvez créer votre propre style avec Custom Your Life, arrêtez de réfléchir et cliquez sur le bouton ci-dessous.</p>
                 		<p>
                 			<a class="btn btn-primary btn-lg">Créer votre t-shirt maintenant !</a>
                 		</p>
