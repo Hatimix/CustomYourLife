@@ -22,10 +22,12 @@ div.jumbotron{
 div.jumbotron h2{
     color: white;
     padding-bottom: 10px;
+    text-align: center;
 }
 div.jumbotron p{
     color: #f9f9f9;
     font-size: 18px;
     line-height: 1.1;
+    text-align: center;
 }
 /* END HEADER*/
