@@ -1,0 +1,11 @@
+/* START NAVBAR */
+nav.main{
+    margin: 0;
+    border-radius: 0;
+}
+/* END NAVBAR */
+/* START HEADER*/
+header.main #container img{
+    height: auto;
+}
+/* END HEADER*/
