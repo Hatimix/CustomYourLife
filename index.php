@@ -71,17 +71,128 @@
                 		<h2>DES T-SHIRT A VOTRE STYLE ET A VOTRE MESURE ! </h2>
                 		<p>Marre d'acheter des vêtements qui ne vous conviennent pas. des couleurs qui ne vous plaisent pas, des vêtements qui ne sont pas résistants? </p>
                         <p>Alors vous êtes au bon endroit, vous pouvez créer votre propre style avec Custom Your Life, arrêtez de réfléchir et cliquez sur le bouton ci-dessous.</p>
-                		<p>
-                			<a class="btn btn-primary btn-lg">Créer votre t-shirt maintenant !</a>
+						<br>
+						<p>
+                			<a class="btn btn-primary btn-lg">Créer Mon T-shirt <br> Maintenant !</a>
                 		</p>
                 	</div>
-                </div><!-- END JUMBOTRON-->
+                </div><!-- END JUMBOTRON -->
             </div>
 		</header>
 		<!-- END HEADER -->
 
+		<!-- START SECTION HOMME -->
+		<section id="homme">
+			<h1 class="text-center">HOMME</h1>
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<article class="product">
+							<header class="productHead">
+								<h4 class="productTitle">T-shirt Noire "Joker" !</h4>
+								<img src="images/1.png" class="img-responsive img-product" alt="">
+							</header>
+							<footer class="productFooter">
+								<div class="col-lg-12 col-xs-12" id="taille">
+									<label for="radio">Disponible en : </label>
+									<br>
+									<button role="radio" class="btn btn-default">XL</button>
+									<button role="radio" class="btn btn-default">L</button>
+									<button role="radio" class="btn btn-default">M</button>
+									<button role="radio" class="btn btn-default">S</button>
+								</div>
+							</footer>
+							<button role="button" class="btn btn-primary addcar">
+								<i class="glyphicon glyphicon-shopping-cart"></i>
+								&nbsp;Ajouter Au Panier
+							</button>
+							<button role="button" class="btn btn-default details">
+								Plus de details
+							</button>
+						</article>
+					</div><!-- PRODUCT 1 -->
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<article class="product">
+							<header class="productHead">
+								<h4 class="productTitle">T-shirt Noire "Joker" !</h4>
+								<img src="images/2.png" class="img-responsive img-product" alt="">
+							</header>
+							<footer class="productFooter">
+								<div class="col-lg-12 col-xs-12" id="taille">
+									<label for="radio">Disponible en : </label>
+									<br>
+									<button role="radio" class="btn btn-default">XL</button>
+									<button role="radio" class="btn btn-default">L</button>
+									<button role="radio" class="btn btn-default">M</button>
+									<button role="radio" class="btn btn-default">S</button>
+								</div>
+							</footer>
+							<button role="button" class="btn btn-primary addcar">
+								<i class="glyphicon glyphicon-shopping-cart"></i>
+								&nbsp;Ajouter Au Panier
+							</button>
+							<button role="button" class="btn btn-default details">
+								Plus de details
+							</button>
+						</article>
+					</div><!-- PRODUCT 2 -->
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<article class="product">
+							<header class="productHead">
+								<h4 class="productTitle">T-shirt Noire "Joker" !</h4>
+								<img src="images/3.png" class="img-responsive img-product" alt="">
+							</header>
+							<footer class="productFooter">
+								<div class="col-lg-12 col-xs-12" id="taille">
+									<label for="radio">Disponible en : </label>
+									<br>
+									<button role="radio" class="btn btn-default">XL</button>
+									<button role="radio" class="btn btn-default">L</button>
+									<button role="radio" class="btn btn-default">M</button>
+									<button role="radio" class="btn btn-default">S</button>
+								</div>
+							</footer>
+							<button role="button" class="btn btn-primary addcar">
+								<i class="glyphicon glyphicon-shopping-cart"></i>
+								&nbsp;Ajouter Au Panier
+							</button>
+							<button role="button" class="btn btn-default details">
+								Plus de details
+							</button>
+						</article>
+					</div><!-- PRODUCT 3 -->
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<article class="product">
+							<header class="productHead">
+								<h4 class="productTitle">T-shirt Noire "Joker" !</h4>
+								<img src="images/4.png" class="img-responsive img-product" alt="">
+							</header>
+							<footer class="productFooter">
+								<div class="col-lg-12 col-xs-12" id="taille">
+									<label for="radio">Disponible en : </label>
+									<br>
+									<button role="radio" class="btn btn-default">XL</button>
+									<button role="radio" class="btn btn-default">L</button>
+									<button role="radio" class="btn btn-default">M</button>
+									<button role="radio" class="btn btn-default">S</button>
+								</div>
+							</footer>
+							<button role="button" class="btn btn-primary addcar">
+								<i class="glyphicon glyphicon-shopping-cart"></i>
+								&nbsp;Ajouter Au Panier
+							</button>
+							<button role="button" class="btn btn-default details">
+								Plus de details
+							</button>
+						</article>
+					</div><!-- PRODUCT 4 -->
+				</div>
+			</div>
+		</section>
+		<!-- END SECTION HOMME -->
+
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="js/jquery.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
         <script src="js/bootstrap.min.js"></script>
     </body>
