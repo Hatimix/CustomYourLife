@@ -103,7 +103,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
-							<label for="price">Prix : 139 MAD</label>
+							<label for="#price" id="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -129,7 +129,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
-							<label for="price">Prix : 139 MAD</label>
+							<label for="#price" id="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -155,7 +155,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
-							<label for="price">Prix : 139 MAD</label>
+							<label for="#price" id="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -181,7 +181,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
-							<label for="price">Prix : 139 MAD</label>
+							<label for="#price" id="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -218,7 +218,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
-							<label for="price">Prix : 139 MAD</label>
+							<label for="#price" id="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -244,7 +244,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
-							<label for="price">Prix : 139 MAD</label>
+							<label for="#price" id="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -270,7 +270,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
-							<label for="price">Prix : 139 MAD</label>
+							<label for="#price" id="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -296,7 +296,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
-							<label for="price">Prix : 139 MAD</label>
+							<label for="#price" id="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -333,7 +333,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
-							<label for="price">Prix : 139 MAD</label>
+							<label for="#price" id="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -359,7 +359,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
-							<label for="price">Prix : 139 MAD</label>
+							<label for="#price" id="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -385,7 +385,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
-							<label for="price">Prix : 139 MAD</label>
+							<label for="#price" id="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -411,7 +411,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
-							<label for="price">Prix : 139 MAD</label>
+							<label for="#price" id="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier

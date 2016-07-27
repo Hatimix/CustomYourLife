@@ -96,6 +96,12 @@ article.product{
     color: #444;
     font-style: oblique;
 }
+#price{
+    text-align: center;
+    padding: 10px;
+    display: block;
+    margin-top: 10px;
+}
 /* END SECTION PRODUCTS */
 
 /* START FOOTER */
