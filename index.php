@@ -11,6 +11,7 @@
 
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
         <link href="style.css" rel="stylesheet">
 
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -82,8 +83,8 @@
 		<!-- END HEADER -->
 
 		<!-- START SECTION HOMME -->
-		<section id="homme">
-			<h1 class="text-center">HOMME</h1>
+		<section id="Products men">
+			<h1 class="text-center">MEN</h1>
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
@@ -102,6 +103,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
+							<label for="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -127,6 +129,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
+							<label for="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -152,6 +155,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
+							<label for="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -177,6 +181,7 @@
 									<button role="radio" class="btn btn-default">S</button>
 								</div>
 							</footer>
+							<label for="price">Prix : 139 MAD</label>
 							<button role="button" class="btn btn-primary addcar">
 								<i class="glyphicon glyphicon-shopping-cart"></i>
 								&nbsp;Ajouter Au Panier
@@ -190,6 +195,277 @@
 			</div>
 		</section>
 		<!-- END SECTION HOMME -->
+
+
+		<!-- START SECTION FEMME -->
+		<section id="Products women">
+			<h1 class="text-center">WOMEN</h1>
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<article class="product">
+							<header class="productHead">
+								<h4 class="productTitle">T-shirt women "La vie en rose" !</h4>
+								<img src="images/11.png" class="img-responsive img-product" alt="">
+							</header>
+							<footer class="productFooter">
+								<div class="col-lg-12 col-xs-12" id="taille">
+									<label for="radio">Disponible en : </label>
+									<br>
+									<button role="radio" class="btn btn-default">XL</button>
+									<button role="radio" class="btn btn-default">L</button>
+									<button role="radio" class="btn btn-default">M</button>
+									<button role="radio" class="btn btn-default">S</button>
+								</div>
+							</footer>
+							<label for="price">Prix : 139 MAD</label>
+							<button role="button" class="btn btn-primary addcar">
+								<i class="glyphicon glyphicon-shopping-cart"></i>
+								&nbsp;Ajouter Au Panier
+							</button>
+							<button role="button" class="btn btn-default details">
+								Plus de details
+							</button>
+						</article>
+					</div><!-- PRODUCT 1 -->
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<article class="product">
+							<header class="productHead">
+								<h4 class="productTitle">T-shirt Noire "Joker" !</h4>
+								<img src="images/22.png" class="img-responsive img-product" alt="">
+							</header>
+							<footer class="productFooter">
+								<div class="col-lg-12 col-xs-12" id="taille">
+									<label for="radio">Disponible en : </label>
+									<br>
+									<button role="radio" class="btn btn-default">XL</button>
+									<button role="radio" class="btn btn-default">L</button>
+									<button role="radio" class="btn btn-default">M</button>
+									<button role="radio" class="btn btn-default">S</button>
+								</div>
+							</footer>
+							<label for="price">Prix : 139 MAD</label>
+							<button role="button" class="btn btn-primary addcar">
+								<i class="glyphicon glyphicon-shopping-cart"></i>
+								&nbsp;Ajouter Au Panier
+							</button>
+							<button role="button" class="btn btn-default details">
+								Plus de details
+							</button>
+						</article>
+					</div><!-- PRODUCT 2 -->
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<article class="product">
+							<header class="productHead">
+								<h4 class="productTitle">T-shirt Noire "Joker" !</h4>
+								<img src="images/33.png" class="img-responsive img-product" alt="">
+							</header>
+							<footer class="productFooter">
+								<div class="col-lg-12 col-xs-12" id="taille">
+									<label for="radio">Disponible en : </label>
+									<br>
+									<button role="radio" class="btn btn-default">XL</button>
+									<button role="radio" class="btn btn-default">L</button>
+									<button role="radio" class="btn btn-default">M</button>
+									<button role="radio" class="btn btn-default">S</button>
+								</div>
+							</footer>
+							<label for="price">Prix : 139 MAD</label>
+							<button role="button" class="btn btn-primary addcar">
+								<i class="glyphicon glyphicon-shopping-cart"></i>
+								&nbsp;Ajouter Au Panier
+							</button>
+							<button role="button" class="btn btn-default details">
+								Plus de details
+							</button>
+						</article>
+					</div><!-- PRODUCT 3 -->
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<article class="product">
+							<header class="productHead">
+								<h4 class="productTitle">T-shirt Noire "Joker" !</h4>
+								<img src="images/44.png" class="img-responsive img-product" alt="">
+							</header>
+							<footer class="productFooter">
+								<div class="col-lg-12 col-xs-12" id="taille">
+									<label for="radio">Disponible en : </label>
+									<br>
+									<button role="radio" class="btn btn-default">XL</button>
+									<button role="radio" class="btn btn-default">L</button>
+									<button role="radio" class="btn btn-default">M</button>
+									<button role="radio" class="btn btn-default">S</button>
+								</div>
+							</footer>
+							<label for="price">Prix : 139 MAD</label>
+							<button role="button" class="btn btn-primary addcar">
+								<i class="glyphicon glyphicon-shopping-cart"></i>
+								&nbsp;Ajouter Au Panier
+							</button>
+							<button role="button" class="btn btn-default details">
+								Plus de details
+							</button>
+						</article>
+					</div><!-- PRODUCT 4 -->
+				</div>
+			</div>
+		</section>
+		<!-- END SECTION FEMME -->
+
+
+		<!-- START SECTION ACCESSOIRE -->
+		<section id="Products accesoiries">
+			<h1 class="text-center">ACCESSOIRIES</h1>
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<article class="product">
+							<header class="productHead">
+								<h4 class="productTitle">Bracelet Noire "Joker" !</h4>
+								<img src="images/111.png" class="img-responsive img-product" alt="">
+							</header>
+							<footer class="productFooter">
+								<div class="col-lg-12 col-xs-12" id="taille">
+									<label for="radio">Disponible en : </label>
+									<br>
+									<button role="radio" class="btn btn-default">XL</button>
+									<button role="radio" class="btn btn-default">L</button>
+									<button role="radio" class="btn btn-default">M</button>
+									<button role="radio" class="btn btn-default">S</button>
+								</div>
+							</footer>
+							<label for="price">Prix : 139 MAD</label>
+							<button role="button" class="btn btn-primary addcar">
+								<i class="glyphicon glyphicon-shopping-cart"></i>
+								&nbsp;Ajouter Au Panier
+							</button>
+							<button role="button" class="btn btn-default details">
+								Plus de details
+							</button>
+						</article>
+					</div><!-- PRODUCT 1 -->
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<article class="product">
+							<header class="productHead">
+								<h4 class="productTitle">Bracelet Noire "Joker"</h4>
+								<img src="images/222.png" class="img-responsive img-product" alt="">
+							</header>
+							<footer class="productFooter">
+								<div class="col-lg-12 col-xs-12" id="taille">
+									<label for="radio">Disponible en : </label>
+									<br>
+									<button role="radio" class="btn btn-default">XL</button>
+									<button role="radio" class="btn btn-default">L</button>
+									<button role="radio" class="btn btn-default">M</button>
+									<button role="radio" class="btn btn-default">S</button>
+								</div>
+							</footer>
+							<label for="price">Prix : 139 MAD</label>
+							<button role="button" class="btn btn-primary addcar">
+								<i class="glyphicon glyphicon-shopping-cart"></i>
+								&nbsp;Ajouter Au Panier
+							</button>
+							<button role="button" class="btn btn-default details">
+								Plus de details
+							</button>
+						</article>
+					</div><!-- PRODUCT 2 -->
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<article class="product">
+							<header class="productHead">
+								<h4 class="productTitle">Bracelet Noire "Joker"</h4>
+								<img src="images/333.png" class="img-responsive img-product" alt="">
+							</header>
+							<footer class="productFooter">
+								<div class="col-lg-12 col-xs-12" id="taille">
+									<label for="radio">Disponible en : </label>
+									<br>
+									<button role="radio" class="btn btn-default">XL</button>
+									<button role="radio" class="btn btn-default">L</button>
+									<button role="radio" class="btn btn-default">M</button>
+									<button role="radio" class="btn btn-default">S</button>
+								</div>
+							</footer>
+							<label for="price">Prix : 139 MAD</label>
+							<button role="button" class="btn btn-primary addcar">
+								<i class="glyphicon glyphicon-shopping-cart"></i>
+								&nbsp;Ajouter Au Panier
+							</button>
+							<button role="button" class="btn btn-default details">
+								Plus de details
+							</button>
+						</article>
+					</div><!-- PRODUCT 3 -->
+					<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+						<article class="product">
+							<header class="productHead">
+								<h4 class="productTitle">Bracelet Noire "Joker"</h4>
+								<img src="images/444.png" class="img-responsive img-product" alt="">
+							</header>
+							<footer class="productFooter">
+								<div class="col-lg-12 col-xs-12" id="taille">
+									<label for="radio">Disponible en : </label>
+									<br>
+									<button role="radio" class="btn btn-default">XL</button>
+									<button role="radio" class="btn btn-default">L</button>
+									<button role="radio" class="btn btn-default">M</button>
+									<button role="radio" class="btn btn-default">S</button>
+								</div>
+							</footer>
+							<label for="price">Prix : 139 MAD</label>
+							<button role="button" class="btn btn-primary addcar">
+								<i class="glyphicon glyphicon-shopping-cart"></i>
+								&nbsp;Ajouter Au Panier
+							</button>
+							<button role="button" class="btn btn-default details">
+								Plus de details
+							</button>
+						</article>
+					</div><!-- PRODUCT 4 -->
+				</div>
+			</div>
+		</section>
+		<!-- END SECTION ACCESSOIRE -->
+
+		<!-- START CLIENT FEEDBACK -->
+		<footer id="main">
+			<div class="container">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+						<div id="aboutUs">
+							<h3>About Us</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque et in nisi numquam ut? Aliquid assumenda at aut beatae enim est ex labore laborum minima molestias nihil pariatur porro, possimus quam quidem rem velit. A consectetur cumque deserunt dolorem exercitationem ipsum omnis provident quam sunt. Ex facilis iusto modi possimus reiciendis sit! A aliquid consequatur cupiditate delectus dolorum eligendi facilis minus, neque nulla, numquam obcaecati officia? Animi iusto nihil quo repellat tempore. Ab ad culpa distinctio eligendi esse illum, iste laborum magnam maxime minus nisi, praesentium, ratione rem repudiandae tempora. Animi beatae deserunt ea rem repudiandae sed sit temporibus! Maxime!</p>
+						</div>
+					</div><!-- end about us -->
+					<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+						<div id="socialNetworks">
+							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+								<h3>"Custom Your Life in Social Networks"</h3>
+								<ul>
+									<li><a href="#"><img src="images/facebook.png" alt="" class="img-responsive"></a></li>
+									<li><a href="#"><img src="images/youtube.png" alt="" class="img-responsive"></a></li>
+									<li><a href="#"><img src="images/insta.png" alt="" class="img-responsive"></a></li>
+
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- END FOOTER -->
+
+		<!-- START COPYRIGHT -->
+		<footer id="copyright">
+			<div class="container">
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 copyright">
+					<h5>All right reserved &copy; 2016</h5>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 designer">
+					<a href="#"><h5>Designed by : LAGZAR Hatim</h5></a>
+				</div>
+			</div>
+		</footer>
+		<!-- END COPYYRIGHT -->
 
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="js/jquery.min.js"></script>

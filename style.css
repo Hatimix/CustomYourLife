@@ -92,7 +92,43 @@ article.product{
     height: 275px;
     text-align: center;
 }
-/* END SECTION HOMME */
-body{
-    height: 2000px;
+.text-center{
+    color: #444;
+    font-style: oblique;
 }
+/* END SECTION PRODUCTS */
+
+/* START FOOTER */
+footer#main{
+    background-color: #444;
+    color: white;
+}
+#socialNetworks ul li{
+    list-style-type: none;
+    display: inline;
+    float: left;
+    text-align: center;
+}
+#socialNetworks ul li img{
+    width: 100px;
+    height: 100px;
+    margin: 0 10px 10px 0;
+}
+#aboutUs{
+    text-align: justify;
+}
+/* END FOOTER */
+/* START COPYRIGHT */
+footer#copyright{
+    background-color: #333;
+    color: white;
+    padding: 4px;
+}
+.designer{
+    text-align: right;
+}
+.designer a{
+    color: white;
+
+}
+/* END COPYRIGHT */
