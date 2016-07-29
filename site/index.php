@@ -47,7 +47,10 @@
         		</ul>
 
         		<ul class="nav navbar-nav navbar-right">
-        			<li><a href="#">Link</a></li>
+					<?php if (!isset($_SESSION["login"])): ?>
+        			<li><a href="#">Se connecter</a></li>
+        			<li><a href="#">S'inscrire</a></li>
+					<?php else: ?>
         			<li class="dropdown">
         				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
         				<ul class="dropdown-menu">
@@ -57,6 +60,7 @@
         					<li><a href="#">Separated link</a></li>
         				</ul>
         			</li>
+					<?php endif; ?>
         		</ul>
         	</div><!-- /.navbar-collapse -->
             </div>
